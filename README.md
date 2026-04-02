@@ -5,6 +5,7 @@ El objetivo de este proyecto es modelar los procesos de educacion superior, tant
 Una herramienta que toma datos crudos, realiza limpieza y vinculacion (a nivel comuna por anio, o mayor desagregacion territorial de ser posible). Los datos base se obtienen de:
 
 https://www.mifuturo.cl/sies/#
+
 https://portal-transparencia.demre.cl/portal-base-datos
 
 La vista final del usuario deberia permitir, mediante la entrada de datos individuales, entregar una visualizacion que indique el exito en el proceso (tanto matricula como titulacion), considerando las preferencias del estudiante. De ser posible, tambien considerar los ingresos futuros y otras amenidades que puedan caracterizar la oferta de educacion superior.
