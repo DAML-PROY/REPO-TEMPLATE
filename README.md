@@ -11,8 +11,8 @@ https://portal-transparencia.demre.cl/portal-base-datos
 La vista final del usuario deberia permitir, mediante la entrada de datos individuales, entregar una visualizacion que indique el exito en el proceso (tanto matricula como titulacion), considerando las preferencias del estudiante. De ser posible, tambien considerar los ingresos futuros y otras amenidades que puedan caracterizar la oferta de educacion superior.
 
 ### Objetivos
-- Disenar un Producto Minimo Viable
-- Definir y asignar tareas
-- Realizar sprints cada 2 semanas y reportar avances dentro del grupo (con apoyo de los ayudantes)
-- Entregar un producto final en el formato elegido (sugiero version web usando Streatlit o similar)
-- Reflexion final y defensa del producto generado
+- Disenar un Producto Minimo Viable que cumpla la vision de producto.
+- Definir y asignar tareas entre los integrantes, guiados por el PM/Scrum Master.
+- Realizar sprints cada 2 semanas y reportar avances dentro del grupo (con apoyo de los ayudantes).
+- Entregar un producto final en el formato elegido (sugiero version web usando Streatlit o similar).
+- Reflexion final y defensa del producto generado.
