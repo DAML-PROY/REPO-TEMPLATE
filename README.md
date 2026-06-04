@@ -16,3 +16,6 @@ La vista final del usuario deberia permitir, mediante la entrada de datos indivi
 - Realizar sprints cada 2 semanas y reportar avances dentro del grupo (con apoyo de los ayudantes).
 - Entregar un producto final en el formato elegido (sugiero version web usando Streatlit o similar).
 - Reflexion final y defensa del producto generado.
+
+Hola hola 123
+
